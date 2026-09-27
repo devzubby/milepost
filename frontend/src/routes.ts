@@ -22,7 +22,7 @@ export const APP_ROUTES: AppRoute[] = [
   { path: '/finalize', label: 'Finalize awards' },
   { path: '/policy', label: 'Spend policy' },
   { path: '/admin', label: 'Admin' },
-  { path: '/admin/standing', label: 'Admin standing lookup' },
+  { path: '/admin/standing', label: 'Standing writers' },
   { path: '/attestations', label: 'Attestation lookup' },
   { path: '/schemas/register', label: 'Register schema' },
   { path: '/keepalive', label: 'Keepalive' },
